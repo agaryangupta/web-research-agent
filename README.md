@@ -76,11 +76,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Demo
-
-*(Add screenshots here later for better presentation)*
-
----
 
 ## ⚠️ Important Notes
 
